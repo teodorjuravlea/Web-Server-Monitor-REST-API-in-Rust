@@ -1,6 +1,6 @@
 # Web Server Monitor REST API in Rust
 
-A simple web server monitor that responds with system information in a JSON to an HTTP request.
+Simple asynchronous web server monitor that responds to an HTTP request with system information in a JSON, using Rocket.rs.
 
 
 ## Possible routes
